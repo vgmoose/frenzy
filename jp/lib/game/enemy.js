@@ -116,11 +116,12 @@ EntityEnemy = ig.Entity.extend({
 		else
 		{
 			ctx.fillStyle = 'rgba(0,0,0,0.3)';
-			ctx.fillRect(bx, by, w+5, 21);
+			ctx.fillRect(bx, by, w+5, 42);
 			ctx.fillStyle = '#fff';
 		}
 		
-		ctx.fillText(word, x, y);
+		ctx.fillText("fdafsd", x, y);
+		ctx.fillText("ttjjt", y, x);
 	},
 	
 	kill: function() {

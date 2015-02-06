@@ -2,4 +2,5 @@ from root dir:
 python -m SimpleHTTPServer
 
 vist:
-http://localhost:8000/frenzy/jp
+http://localhost:8000/jp
+
